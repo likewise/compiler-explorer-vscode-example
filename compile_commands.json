@@ -1,0 +1,7 @@
+[
+    {
+        "directory": "/home/leon/sandbox/learning_cpp",
+        "command" : "/usr/bin/clang++ -O1 -c -o main.o main.cc",
+        "file": "main.cc"
+    }
+]
